@@ -1,2 +1,18 @@
-# student-management-system
-A Python-based Student Management System designed to manage student records efficiently. The application supports core CRUD operations such as adding, updating, deleting, and viewing student details. The project focuses on clean backend logic, structured data handling, and applying object-oriented programming concepts.
+# Student Management System
+
+A Python-based application to manage student records efficiently.It supports core CRUD operations and focuses on clean backend logicand structured data handling.
+
+## Features
+- Add new student records
+- Update existing student details
+- Delete student records
+- View all student information
+
+## Tech Stack
+- Python
+
+## Concepts Used
+- CRUD Operations
+
+## Status
+Completed
